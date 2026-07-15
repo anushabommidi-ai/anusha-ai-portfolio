@@ -34,4 +34,4 @@ Recently I completed Anthropic's Claude 101 and AI Fluency certifications and I 
 
 Build practical AI tools that help organizations save time and improve productivity.
 
-More AI projects coming soon.
+Currently building practical AI applications focused on workflow automation, documentation, customer support, and productivity.
