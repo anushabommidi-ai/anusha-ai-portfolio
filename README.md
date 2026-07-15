@@ -32,6 +32,4 @@ Recently I completed Anthropic's Claude 101 and AI Fluency certifications and I 
 
 ## Current Goal
 
-Build practical AI tools that help organizations save time and improve productivity.
-
-Currently building practical AI applications focused on workflow automation, documentation, customer support, and productivity.
+Currently building practical AI applications focused on workflow automation, documentation, customer support, and productivity to help organizations solve real-world problems.
