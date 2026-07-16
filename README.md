@@ -18,8 +18,8 @@ Recently I completed Anthropic's Claude 101 and AI Fluency certifications and I 
 
 ### Certificate Files
 
-- [Claude 101 Certificate](certificates/claude-101-certificate.pdf)
-- [AI Fluency Certificate](certificates/ai-fluency-certificate.pdf)
+- [Claude 101 Certificate](claude-101-certificate.pdf)
+- [AI Fluency Certificate](ai-fluency-certificate.pdf)
 
 ---
 
