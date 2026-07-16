@@ -16,6 +16,11 @@ Recently I completed Anthropic's Claude 101 and AI Fluency certifications and I 
 - AI Fluency: Framework & Foundations (Anthropic)
 - Google IT Support Professional Certificate (In Progress)
 
+### Certificate Files
+
+- [Claude 101 Certificate](certificates/claude-101-certificate.pdf)
+- [AI Fluency Certificate](certificates/ai-fluency-certificate.pdf)
+
 ---
 
 ## Skills
